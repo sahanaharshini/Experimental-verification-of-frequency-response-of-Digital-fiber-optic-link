@@ -77,7 +77,6 @@ Fiber optic links can be used for transmission of both digital and analog signal
 
 ## MODEL GRAPH
 ![alt text](image-1.png)
----
 
 ## RESULT
 The digital signal was successfully transmitted through **660nm and 950nm fiber optic links** and reproduced at the receiver end.  
